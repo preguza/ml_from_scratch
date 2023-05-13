@@ -2,7 +2,7 @@
 ML models developed from scratch, where applicable using 3 approaches:
 - 
 
-Currently, the following models have been included:\
+Currently, the following models have been included:
 - Nan
 
 
